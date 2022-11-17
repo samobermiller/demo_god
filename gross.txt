@@ -1,1 +1,1 @@
-git_lost and git_shirt and git_it
+git_lost and git_shirt and git_init
